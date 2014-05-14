@@ -1,0 +1,24 @@
+apply plugin: 'java'
+apply plugin: 'checkstyle'
+apply plugin: 'pmd'
+apply plugin: 'findbugs'
+
+dependencies {
+
+    testCompile 'junit:junit:4.+'
+    testCompile 'org.mockito:mockito-all:1.9.5'
+    testCompile 'org.easytesting:fest-assert:1.4'
+
+}
+
+tasks.withType(FindBugs) {
+
+    reports {
+
+        def xmlOn = true;
+        xml.enabled = xmlOn
+        html.enabled = !xmlOn
+
+    }
+
+}
