@@ -1,7 +1,7 @@
 graveler
 ========
 
-so, there was a project called GOLEM (**G**eneralised **O**nto**L**ogical **E**nvironments for **M**ulti-**A**gent **S**ystems) (will link when the website is back up, but search DICE group at RHUL, Kostas Stathis, Stefano Bromuri).
+so, there was a project called GOLEM (**G**&#8203;eneralised **O**&#8203;nto**L**&#8203;ogical **E**&#8203;nvironments for **M**&#8203;ulti-**A**&#8203;gent **S**&#8203;ystems) (will link when the website is back up, but search DICE group at RHUL, Kostas Stathis, Stefano Bromuri).
 
 I made GOLEMlite (aka. **geodude**) as part of my MSc thesis.
 
